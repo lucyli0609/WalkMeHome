@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Walk Me Home</string>
+    <string name="walk_me_home">Walk Me Home</string>
+    <string name="campus_security">Campus Security</string>
+    <string name="dropoff_text">Choose the destination:</string>
+    <string name="pickup_text">Choose the meet up location:</string>
+    <string name="time_text">Choose the time you want to go:</string>
+    <string name="submit">Submit</string>
+    <string name="locationTitle">Your meet-up location is: </string>
+    <string name="timeTitle">Your meet-up time is: </string>
+    <string name="groupDetail">Your walk home buddies are: </string>
+    <string name="seeMap">See Map </string>
+    <string name="text_name">Please enter your name: </string>
+    <string name="text_phone">Please enter your phone number: </string>
+    <string name="text_email">Please enter your university email: </string>
+    <string name="signup">Sign Up </string>
+
+    <string-array name="dropoff_spinner">
+        <item>Flinder Street</item>
+        <item>Bus 402 - Grattan Street</item>
+        <item>Bus 505 - Royal Melbourne Hospital</item>
+        <item>Eastern Precinct Car Park - 379 Cardigan St</item>
+        <item>Parkhound - 700 Swanston St</item>
+        <item>Peter MacCallum Cancer Centre - 3000/6 Flemington Rd</item>
+        <item>Royal Womens Hospital - 20 Flemington Rd</item>
+        <item>South Car Park - Wilson Ave</item>
+        <item>University Square - 227 Grattan Street</item>
+    </string-array>
+    <string-array name="pickup_spinner">
+        <item>Arts West</item>
+        <item>Baillieu</item>
+        <item>Kwong Lee Dow</item>
+        <item>Law Building</item>
+        <item>Mechanical Engineering</item>
+        <item>Stop 1</item>
+        <item>The Spot</item>
+        <item>Union House</item>
+    </string-array>
+    <string-array name="time_spinner">
+        <item>in 15 minutes</item>
+        <item>in 30 minutes</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
